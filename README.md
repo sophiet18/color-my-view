@@ -1,4 +1,4 @@
-# udacity-3
+# udacity-3 (lesson 2)
 So I almost had a heart attack when I realized acitvity main tags weren't showing up again... 
 
 This time I learnt about constraints, chains, and ratios 
